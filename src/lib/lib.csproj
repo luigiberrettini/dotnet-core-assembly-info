@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <Company>Asbly company</Company>
+    <Copyright>Asbly copyright</Copyright>
+    <Description>Asbly description</Description>
+    <FileVersion>3.0.0.0</FileVersion>
+    <InformationalVersion>4.0.0.0</InformationalVersion>
+    <Product>Asbly product</Product>
+    <AssemblyTitle>Asbly title</AssemblyTitle>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+
+    <Title>Package title</Title>
+    <Version>1.2.3.4</Version>
+    <Authors>Author1, Author2, Author3</Authors>
+    <PackageId>PackageNameAndFileName</PackageId>
+    <PackageLicenseUrl>License URL</PackageLicenseUrl>
+    <PackageProjectUrl>Project URL</PackageProjectUrl>
+    <PackageIconUrl>Icon URL</PackageIconUrl>
+    <RepositoryUrl>Repo URL</RepositoryUrl>
+    <RepositoryType>Repo type</RepositoryType>
+    <PackageTags>My package tags</PackageTags>
+    <PackageReleaseNotes>My package release notes</PackageReleaseNotes>
+  </PropertyGroup>
+</Project>
