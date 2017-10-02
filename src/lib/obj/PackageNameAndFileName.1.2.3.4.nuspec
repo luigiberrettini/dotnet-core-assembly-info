@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PackageNameAndFileName</id>
+    <version>1.2.3.4</version>
+    <title>Package title</title>
+    <authors>Author1, Author2, Author3</authors>
+    <owners>Author1, Author2, Author3</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Asbly description</description>
+    <releaseNotes>My package release notes</releaseNotes>
+    <copyright>Asbly copyright</copyright>
+    <tags>My package tags</tags>
+    <repository type="Repo type" url="Repo URL" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\AD\Development\Projects\missing-assembly-info\lib\bin\Debug\netstandard2.0\lib.dll" target="lib\netstandard2.0\lib.dll" />
+  </files>
+</package>

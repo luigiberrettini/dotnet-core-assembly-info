@@ -1,0 +1,8 @@
+D:\AD\Development\Projects\missing-assembly-info\lib\bin\Debug\netstandard2.0\lib.deps.json
+D:\AD\Development\Projects\missing-assembly-info\lib\bin\Debug\netstandard2.0\lib.dll
+D:\AD\Development\Projects\missing-assembly-info\lib\bin\Debug\netstandard2.0\lib.pdb
+D:\AD\Development\Projects\missing-assembly-info\lib\obj\Debug\netstandard2.0\lib.csproj.CoreCompileInputs.cache
+D:\AD\Development\Projects\missing-assembly-info\lib\obj\Debug\netstandard2.0\lib.AssemblyInfoInputs.cache
+D:\AD\Development\Projects\missing-assembly-info\lib\obj\Debug\netstandard2.0\lib.AssemblyInfo.cs
+D:\AD\Development\Projects\missing-assembly-info\lib\obj\Debug\netstandard2.0\lib.dll
+D:\AD\Development\Projects\missing-assembly-info\lib\obj\Debug\netstandard2.0\lib.pdb
